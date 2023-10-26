@@ -1,0 +1,14 @@
+/* custom.css */
+@media (min-width: 768px) {
+    .container {
+      text-align: center;
+      margin-left: 70%;
+    }
+  }
+  .custom-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
